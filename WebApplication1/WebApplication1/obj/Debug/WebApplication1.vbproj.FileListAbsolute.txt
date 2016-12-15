@@ -29,7 +29,6 @@ D:\GitHub\Abc\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
 D:\GitHub\Abc\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
 D:\GitHub\Abc\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
 D:\GitHub\Abc\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\GitHub\Abc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
 D:\GitHub\Abc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
 D:\GitHub\Abc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
 D:\GitHub\Abc\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
